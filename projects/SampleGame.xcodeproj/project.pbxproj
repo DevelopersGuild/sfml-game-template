@@ -83,8 +83,8 @@
 		5F35EB631BC84F5D00FCF070 /* vorbisenc.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = vorbisenc.framework; path = frameworks/vorbisenc.framework; sourceTree = "<group>"; };
 		5F35EB641BC84F5D00FCF070 /* vorbisfile.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = vorbisfile.framework; path = frameworks/vorbisfile.framework; sourceTree = "<group>"; };
 		5F35EB821BC850C200FCF070 /* ../assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ../assets; sourceTree = SOURCE_ROOT; };
-		5FB6B9911BD18FC600ACC995 /* Overlap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Overlap.cpp; path = ../../src/Overlap.cpp; sourceTree = "<group>"; };
-		5FB6B9921BD18FC600ACC995 /* Overlap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Overlap.h; path = ../../src/Overlap.h; sourceTree = "<group>"; };
+		5FB6B9911BD18FC600ACC995 /* Overlap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Overlap.cpp; path = ../src/Overlap.cpp; sourceTree = SOURCE_ROOT; };
+		5FB6B9921BD18FC600ACC995 /* Overlap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Overlap.h; path = ../src/Overlap.h; sourceTree = SOURCE_ROOT; };
 		5FF4FE981BB33EE60079FC4C /* Fantastic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fantastic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
