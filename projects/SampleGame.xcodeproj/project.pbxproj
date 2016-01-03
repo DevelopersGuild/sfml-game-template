@@ -37,6 +37,7 @@
 		5F35EB831BC850C200FCF070 /* ../assets in Resources */ = {isa = PBXBuildFile; fileRef = 5F35EB821BC850C200FCF070 /* ../assets */; };
 		5F3A1B3C1BC8519100726EBF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F35EB531BC84F3800FCF070 /* main.cpp */; };
 		5FB6B9931BD18FC600ACC995 /* Overlap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5FB6B9911BD18FC600ACC995 /* Overlap.cpp */; };
+		5FC0A39C1C38CB8200BFD80B /* Add new source code files here in Resources */ = {isa = PBXBuildFile; fileRef = 5FC0A39B1C38CB8200BFD80B /* Add new source code files here */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -85,6 +86,7 @@
 		5F35EB821BC850C200FCF070 /* ../assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ../assets; sourceTree = SOURCE_ROOT; };
 		5FB6B9911BD18FC600ACC995 /* Overlap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Overlap.cpp; path = ../src/Overlap.cpp; sourceTree = SOURCE_ROOT; };
 		5FB6B9921BD18FC600ACC995 /* Overlap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Overlap.h; path = ../src/Overlap.h; sourceTree = SOURCE_ROOT; };
+		5FC0A39B1C38CB8200BFD80B /* Add new source code files here */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Add new source code files here"; sourceTree = "<group>"; };
 		5FF4FE981BB33EE60079FC4C /* Fantastic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fantastic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -136,6 +138,7 @@
 		5FF4FE8E1BB33EE60079FC4C = {
 			isa = PBXGroup;
 			children = (
+				5FC0A39B1C38CB8200BFD80B /* Add new source code files here */,
 				5FF4FE9A1BB33EE60079FC4C /* SampleGame */,
 				5FF4FE991BB33EE60079FC4C /* Products */,
 			);
@@ -230,6 +233,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FC0A39C1C38CB8200BFD80B /* Add new source code files here in Resources */,
 				5F35EB831BC850C200FCF070 /* ../assets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
